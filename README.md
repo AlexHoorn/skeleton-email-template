@@ -15,13 +15,21 @@ This template will:
 
 In all seriousness, if you want a straightforward HTML email template, which looks beautiful, sleek and professional, then this is the one for you.
 
+## What's included?
+
+- [Buttons](https://artilex.github.io/skeleton-email-template/templates/button.html)
+- [Code snippets](https://artilex.github.io/skeleton-email-template/templates/code.html)
+- [Organized lists](https://artilex.github.io/skeleton-email-template/templates/list-organized)
+- [Unorganized lists](https://artilex.github.io/skeleton-email-template/templates/list-unorganized)
+- [Tables](https://artilex.github.io/skeleton-email-template/templates/table)
+
 ## How to use
 
 ### Inlined
 
 You can use the inlined files found in [/templates-inlined/](templates-inlined/) straight away with your favorite email client. Each client handles the use of HTML files differently, so please refer to the documentation of your client for more details.
 
-### Non inlined
+### Non inlined *(Recommended)*
 
 If none of the templates suit your needs then this is the way to go for you.
 

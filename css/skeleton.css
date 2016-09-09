@@ -20,7 +20,6 @@
 - Tables
 - Spacing
 - Misc
-- Clearing
 */
 
 
@@ -108,7 +107,7 @@ a:hover {
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.button {
+button {
     display: inline-block;
     height: 38px;
     padding: 0 30px;
@@ -128,8 +127,8 @@ a:hover {
     box-sizing: border-box;
 }
 
-.button:hover,
-.button:focus {
+button:hover,
+button:focus {
     color: #333;
     border-color: #888;
     outline: 0;
@@ -230,14 +229,4 @@ hr {
     margin-bottom: 30px;
     border-width: 0;
     border-top: 1px solid #E1E1E1;
-}
-
-
-/* Clearing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.container:after {
-    content: "";
-    display: table;
-    clear: both;
 }
